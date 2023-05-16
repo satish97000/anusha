@@ -3,7 +3,12 @@ update 4
 update 1 
 update 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 update 7
+=======
+update 5[D[C
+update 6
+>>>>>>> Stashed changes
 =======
 update 5[D[C
 update 6
