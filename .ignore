@@ -1,7 +1,7 @@
 # this is ignore file .. where i have mentioned what kind of files i want to ignore to repo 
 
-.text
+.txt
 .java
-..php
+.php
 .py
 
